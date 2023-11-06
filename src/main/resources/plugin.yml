@@ -1,0 +1,4 @@
+name: TofuSamples
+version: '${project.version}'
+main: com.tohu.tofusamples.TofuSamples
+api-version: '1.20'
